@@ -1,0 +1,34 @@
+Red     		Kylo
+yellow  		Rey
+white   		Darksaber
+red				Maul
+blue			Anakin
+red     		Malicos 
+blue    		Kenobi
+red     		Dark Rey
+green			Luke
+red				Reva
+green   		Qui Gon
+red     		Vader
+Magenta  		Cal Kestis
+light blue 		Leia
+purple			Revan	
+red         	Dark Kestis
+Orange			Wraith
+red				Emperor
+Green			Cere Junda
+White			Ahsoka
+red 			Count
+white/offwhite  Codex Of Light
+Blue/Purple	    Cyber Terror
+light purple    Dark Ages
+red				Hatred (Malgus)
+light green		Idyll
+light blue		Serenity
+purple			The Champion (windu)
+red				The Dark Lord Revisited (Vader)
+blue			The Learner (Ezra)
+red				The Second (Second Sister)
+green			The Teacher (Yoda)
+Red Orange		Whispers Of Power
+rainbow			Sailor Moon
