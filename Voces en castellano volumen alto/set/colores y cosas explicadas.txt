@@ -1,0 +1,305 @@
+# 1 Anakin Skywalker --- Blue: (0, 0, 255)
+Color-1 = (0, 0, 255), 1, 500, 1000, 0
+
+    # Color: (0, 0, 255) representa un tono de azul.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 500.
+    # Velocidad de apagado: 1000.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 2 Rey --- Yellow: (255, 255, 0)
+Color-2 = (255, 255, 0), 2, 500, 1000, 8
+
+    # Color: (255, 255, 0) representa un tono de amarillo.
+    # Efecto de luz predeterminado: 2 (hoja pulsante).
+    # Velocidad de encendido: 500.
+    # Velocidad de apagado: 1000.
+    # Estilo predeterminado: 8 (preon especial).
+
+# 3 The Dark Sword --- White: (255, 255, 255)
+Color-3 = (255, 255, 255), 5, 1200, 1200, 0
+
+    # Color: (255, 255, 255) representa un tono de blanco.
+    # Efecto de luz predeterminado: 5 (hoja inestable).
+    # Velocidad de encendido: 1200.
+    # Velocidad de apagado: 1200.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 4 Maul --- Red: (255, 0, 0)
+Color-4 = (255, 0, 0), 6, 500, 700, 0
+
+    # Color: (255, 0, 0) representa un tono de rojo.
+    # Efecto de luz predeterminado: 6 (hoja agrietada).
+    # Velocidad de encendido: 500.
+    # Velocidad de apagado: 700.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 5 Kylo Ren --- Red: (255, 0, 0)
+Color-5 = (255, 0, 0), 0, 200, 900, 0
+
+    # Color: (255, 0, 0) representa un tono de rojo.
+    # Efecto de luz predeterminado: 0 (hoja estándar).
+    # Velocidad de encendido: 200.
+    # Velocidad de apagado: 900.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 6 Darth Malicos --- Red: (255, 0, 0)
+Color-6 = (255, 0, 0), 0, 300, 700, 0
+
+    # Color: (255, 0, 0) representa un tono de rojo.
+    # Efecto de luz predeterminado: 0 (hoja estándar).
+    # Velocidad de encendido: 300.
+    # Velocidad de apagado: 700.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 7 Obi-Wan --- Blue: (0, 0, 255)
+Color-7 = (0, 0, 255), 1, 400, 800, 0
+
+    # Color: (0, 0, 255) representa un tono de azul.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 400.
+    # Velocidad de apagado: 800.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 8 The Dark Empress --- Red: (255, 0, 0)
+Color-8 = (255, 0, 0), 0, 200, 500, 0
+
+    # Color: (255, 0, 0) representa un tono de rojo.
+    # Efecto de luz predeterminado: 0 (hoja estándar).
+    # Velocidad de encendido: 200.
+    # Velocidad de apagado: 500.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 9 Luke --- Green: (0, 255, 0)
+Color-9 = (0, 255, 0), 1, 200, 1000, 0
+
+    # Color: (0, 255, 0) representa un tono de verde.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 200.
+    # Velocidad de apagado: 1000.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 10 Cal White --- White: (255, 255, 255)
+Color-10 = (255, 0, 0), 1, 400, 600, 0
+
+    # Color: (255, 0, 0) representa un tono de rojo.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 400.
+    # Velocidad de apagado: 600.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 11 Qui-Gon --- lime Green: (50, 205, 50)
+Color-11 = (0, 255, 0), 2, 200, 600, 0
+
+    # Color: (0, 255, 0) representa un tono de verde.
+    # Efecto de luz predeterminado: 2 (hoja pulsante).
+    # Velocidad de encendido: 200.
+    # Velocidad de apagado: 600.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 12 Darth Vader Fallen Order --- Red: (255, 0, 0)
+Color-12 = (255, 0, 0), 1, 1200, 600, 0
+
+    # Color: (255, 0, 0) representa un tono de rojo.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 1200.
+    # Velocidad de apagado: 600.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 13 Cal Magenta --- Magenta: (255, 0, 255)
+Color-13 = (255, 51, 255), 2, 400, 600, 0
+
+    # Color: (255, 51, 255) representa un tono de rosa.
+    # Efecto de luz predeterminado: 2 (hoja pulsante).
+    # Velocidad de encendido: 400.
+    # Velocidad de apagado: 600.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 14 The Princess --- Cyan: (0, 255, 255)
+Color-14 = (0, 255, 255), 2, 300, 700, 0
+
+    # Color: (0, 255, 255) representa un tono de cian.
+    # Efecto de luz predeterminado: 2 (hoja pulsante).
+    # Velocidad de encendido: 300.
+    # Velocidad de apagado: 700.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 15 Double Agent --- Purple: (128, 0, 128)
+Color-15 = (150, 50, 255), 1, 400, 500, 0
+
+    # Color: (150, 50, 255) representa un tono de violeta.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 400.
+    # Velocidad de apagado: 500.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 16 Darth Kestis --- Ruby Red: (224, 17, 95)
+Color-16 = (255, 0, 0), 0, 300, 700, 0
+
+    # Color: (255, 0, 0) representa un tono de rojo.
+    # Efecto de luz predeterminado: 0 (hoja estándar).
+    # Velocidad de encendido: 300.
+    # Velocidad de apagado: 700.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 17 Purge Trooper --- White: (255, 255, 255)
+Color-17 = (255, 128, 0), 6, 300, 800, 0
+
+    # Color: (255, 128, 0) representa un tono de naranja.
+    # Efecto de luz predeterminado: 6 (hoja agrietada).
+    # Velocidad de encendido: 300.
+    # Velocidad de apagado: 800.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 18 The Senate --- Red: (255, 0, 0)
+Color-18 = (255, 0, 0), 1, 300, 800, 0
+
+    # Color: (255, 0, 0) representa un tono de rojo.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 300.
+    # Velocidad de apagado: 800.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 19 Magnetic --- Pink: (255, 192, 203)
+Color-19 = (0, 255, 0), 2, 300, 600, 0
+
+    # Color: (0, 255, 0) representa un tono de verde.
+    # Efecto de luz predeterminado: 2 (hoja pulsante).
+    # Velocidad de encendido: 300.
+    # Velocidad de apagado: 600.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 20 Ahsoka --- White: (255, 255, 255)
+Color-20 = (255, 255, 255), 1, 200, 500, 0
+
+    # Color: (255, 255, 255) representa un tono de blanco.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 200.
+    # Velocidad de apagado: 500.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 21 Conde Dooku --- Red: (255, 0, 0)
+Color-21 = (255, 0, 0), 1, 300, 700, 0
+
+    # Color: (255, 0, 0) representa un tono de rojo.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 300.
+    # Velocidad de apagado: 700.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 22 Codex of Light --- White: (255, 255, 255)
+Color-22 = (255, 255, 255), 0, 300, 1100, 0
+
+    # Color: (255, 255, 255) representa un tono de blanco.
+    # Efecto de luz predeterminado: 0 (hoja estándar).
+    # Velocidad de encendido: 300.
+    # Velocidad de apagado: 1100.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 23 Cyber Terror --- Yellow: (255, 255, 0)
+Color-23 = (175, 0, 255), 0, 700, 1000, 0
+
+    # Color: (175, 0, 255) representa un tono de morado.
+    # Efecto de luz predeterminado: 0 (hoja estándar).
+    # Velocidad de encendido: 700.
+    # Velocidad de apagado: 1000.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 24 Dark Ages --- Red: (255, 0, 0)
+Color-24 = (204, 128, 255), 1, 100, 1000, 0
+
+    # Color: (204, 128, 255) representa un tono de rosa pálido.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 100.
+    # Velocidad de apagado: 1000.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 25 Hatred --- Orange: (255, 165, 0)
+Color-25 = (255, 0, 0), 0, 200, 600, 0
+
+    # Color: (255, 0, 0) representa un tono de rojo.
+    # Efecto de luz predeterminado: 0 (hoja estándar).
+    # Velocidad de encendido: 200.
+    # Velocidad de apagado: 600.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 26 Idyll --- Blue: (0, 0, 255)
+Color-26 = (128, 255, 128), 1, 200, 1200, 0
+
+    # Color: (128, 255, 128) representa un tono de verde claro.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 200.
+    # Velocidad de apagado: 1200.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 27 Serenity --- Blue: (0, 0, 255)
+Color-27 = (50, 160, 255), 2, 300, 1000, 0
+
+    # Color: (50, 160, 255) representa un tono de azul claro.
+    # Efecto de luz predeterminado: 2 (hoja pulsante).
+    # Velocidad de encendido: 300.
+    # Velocidad de apagado: 1000.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 28 Mace --- Purple: (128, 0, 128)
+Color-28 = (255, 0, 255), 1, 300, 800, 0
+
+    # Color: (255, 0, 255) representa un tono de magenta.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 300.
+    # Velocidad de apagado: 800.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 29 Darth Vader Revisited --- Red: (255, 0, 0)
+Color-29 = (255, 0, 0), 0, 800, 800, 0
+
+    # Color: (255, 0, 0) representa un tono de rojo.
+    # Efecto de luz predeterminado: 0 (hoja estándar).
+    # Velocidad de encendido: 800.
+    # Velocidad de apagado: 800.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 30 Ezra --- Teal: (0, 128, 128)
+Color-30 = (0, 0, 255), 1, 200, 800, 0
+
+    # Color: (0, 0, 255) representa un tono de azul.
+    # Efecto de luz predeterminado: 1 (hoja constante).
+    # Velocidad de encendido: 200.
+    # Velocidad de apagado: 800.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 31 Kal Kestis --- Shappire Blue: (0, 20, 168)
+Color-31 = (255, 0, 0), 0, 200, 1000, 0
+
+    # Color: (255, 0, 0) representa un tono de rojo.
+    # Efecto de luz predeterminado: 0 (hoja estándar).
+    # Velocidad de encendido: 200.
+    # Velocidad de apagado: 1000.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 32 Yoda --- emerald Green: (0, 201, 87)
+Color-32 = (0, 255, 0), 2, 200, 500, 0
+
+    # Color: (0, 255, 0) representa un tono de verde.
+    # Efecto de luz predeterminado: 2 (hoja pulsante).
+    # Velocidad de encendido: 200.
+    # Velocidad de apagado: 500.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 33 Whispers of Power --- Crimsom: (220, 20, 60)
+Color-33 = (255, 153, 18), 0, 300, 500, 0
+
+    # Color: (255, 153, 18) representa un tono de naranja claro.
+    # Efecto de luz predeterminado: 0 (hoja estándar).
+    # Velocidad de encendido: 300.
+    # Velocidad de apagado: 500.
+    # Estilo predeterminado: 0 (hoja estándar).
+
+# 34 Moon Field --- Silver: (192, 192, 192)
+Color-34 = (255, 192, 203), 3, 1000, 1400, 0
+
+    # Color: (255, 192, 203) representa un tono de rosa claro.
+    # Efecto de luz predeterminado: 3 (preon especial).
+    # Velocidad de encendido: 1000.
+    # Velocidad de apagado: 1400.
+    # Estilo predeterminado: 0 (hoja estándar).
