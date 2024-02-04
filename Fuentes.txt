@@ -7,7 +7,7 @@ Wanderer: Wanderer (Malicos Inspired) Font by Repulse Collectibles.
 The Protector: The Protector (Kenobi Inspired) Font by Repulse Collectibles.
 The Dark Empress: The Dark Empress (Dark Rey Inspired) Font by Repulse Collectibles.
 The Son: The Son (Luke Inspired) Font by Repulse Collectibles.
-The Third Hunter: The Third Hunter (Reva Inspired) Font by Repulse Collectibles.
+Mercenary
 The Master: The Master (Qui-Gon Jinn Inspired) Font by Repulse Collectibles.
 The Dark Lord Order: The Dark Lord Order (Vader, Fallen Order Inspired) Font by Repulse Collectibles.
 Magenta: Fallen Apprentice Magenta (Kestis Inspired) Font by Repulse Collectibles.
@@ -16,7 +16,7 @@ Double Agent: Double Agent (Revan Inspired) Font by Darkwolf Sabers.
 Truly Lost: Truly Lost (Dark Kestis Inspired) Font by Repulse Collectibles.
 Wraith: Wraith (original) Font by Repulse Collectibles.
 The Senate: The Senate (Palpatine Inspired) Font by Repulse Collectibles.
-Redeemed: Redeemed (Junda Inspired) Font by Repulse Collectibles.
+Magnetic
 Bounty: Bounty (Ahsoka Inspired) Font by Repulse Collectibles.
 The Count: The Count (Dooku Inspired) Font by Repulse Collectibles.
 Codex Of Light: Codex Of Light Font (original) by Reavers Arsenal.
@@ -28,7 +28,7 @@ Serenity: Serenity Font (original) by Reavers Arsenal.
 The Champion: The Champion (Mace inspired) Font by Reavers Arsenal.
 The Dark Lord Revisited: The Dark Lord Revisited (Vader inspired) Font by Reavers Arsenal.
 The Learner: The Learner (Ezra Inspired) Font by Reavers Arsenal.
-The Second: The Second (Second Sister inspired) by Reavers Arsenal.
+The Second: The Second (Second Sister inspired) by Reavers Arsenal. ###
 Teacher: Teacher (Yoda inspired) Font by Reavers Arsenal.
 Whispers Of Power: Whispers Of Power Font (original) by Reavers Arsenal.
 Moon Field: "TSUKINO (Moon Field)" © Cosmic Ape 18 October 2021.
